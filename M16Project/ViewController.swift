@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var age = 28
 
     @IBOutlet weak var titleLabel: UILabel!
 
